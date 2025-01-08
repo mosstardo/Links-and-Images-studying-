@@ -1,0 +1,5 @@
+2025/01/07-23:43:33.688 1cfe0 Creating DB /home/thiago-ribeiro/.config/google-chrome/Default/Sync Data/LevelDB since it was missing.
+2025/01/07-23:43:33.703 1cfe0 Reusing MANIFEST /home/thiago-ribeiro/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
+2025/01/07-23:43:33.703 1cfe0 Recovering log #34
+2025/01/07-23:43:33.704 1cfe0 Reusing old log /home/thiago-ribeiro/.config/google-chrome/Default/Sync Data/LevelDB/000034.log 
+2025/01/07-23:43:33.704 1cfe0 Delete type=2 #35

@@ -1,0 +1,7 @@
+[init]
+	defaultBranch = main
+[pull]
+	rebase = false
+[user]
+	name = Thiago Ribeiro Meneses
+	email = Thiagobmth17@gmail.com

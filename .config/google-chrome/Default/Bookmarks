@@ -1,0 +1,386 @@
+{
+   "checksum": "63c941e05e55cb5f881d7dd405b02690",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13075682280387698",
+            "date_last_used": "0",
+            "guid": "4fe25a2e-b50d-4b07-a47a-55bcd2b122f2",
+            "id": "16",
+            "name": "Bookmarks",
+            "type": "url",
+            "url": "chrome://bookmarks/"
+         }, {
+            "date_added": "13296149334092096",
+            "date_last_used": "0",
+            "guid": "fdfd3803-2179-4d01-b5f7-bdb69a77c9aa",
+            "id": "17",
+            "name": "DIM",
+            "type": "url",
+            "url": "https://app.destinyitemmanager.com/4611686018488539942/d2/inventory"
+         }, {
+            "date_added": "13296621842159212",
+            "date_last_used": "13351142749128886",
+            "guid": "7c11759a-245f-43d4-a651-f6d569cd703f",
+            "id": "18",
+            "name": "New-deals",
+            "type": "url",
+            "url": "https://lfcarry.com/ui/booster/new-deals"
+         }, {
+            "date_added": "13338581925694329",
+            "date_last_used": "13340066896053772",
+            "guid": "d3881f3e-d52c-44f7-8793-9a51059f8bd1",
+            "id": "19",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "boostinggroud",
+            "type": "url",
+            "url": "https://boosting-ground.com/Destiny2/currentOrders"
+         }, {
+            "date_added": "13297283818308302",
+            "date_last_used": "13325264953151485",
+            "guid": "4ffbc5b0-e166-4dd7-86ae-2b9c7ece3571",
+            "id": "20",
+            "name": "Dashboard - Boosting, Accounts & Powerleveling",
+            "type": "url",
+            "url": "https://captain-carry.com/dashboard/"
+         }, {
+            "date_added": "13357494837208642",
+            "date_last_used": "0",
+            "guid": "52be3422-25dc-4fa4-a180-cc798d9e6517",
+            "id": "21",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Boosting - Destiny 2 Jobs - Job Application - Work at Blazing Boost",
+            "type": "url",
+            "url": "https://blazingboost.com/job/boosterdestiny2"
+         }, {
+            "date_added": "13306474521935624",
+            "date_last_used": "13382731610534105",
+            "guid": "f0f912d1-5bc8-4250-adf2-da65067f595f",
+            "id": "22",
+            "name": "acesso",
+            "type": "url",
+            "url": "https://discord.com/channels/343023303893581824/836815070037671946"
+         }, {
+            "date_added": "13305907608074330",
+            "date_last_used": "13342629546182390",
+            "guid": "3cee787a-5610-4100-8229-9aca584257b4",
+            "id": "23",
+            "name": "TodayInDestiny",
+            "type": "url",
+            "url": "https://todayindestiny.com/"
+         }, {
+            "date_added": "13305748792775083",
+            "date_last_used": "0",
+            "guid": "2d455ae3-c36e-4580-8870-62537a43ac83",
+            "id": "24",
+            "name": "Digital Rewards | Bungie.net",
+            "type": "url",
+            "url": "https://www.bungie.net/7/en/Rewards/Rewards"
+         }, {
+            "date_added": "13278355415850234",
+            "date_last_used": "13361762456492334",
+            "guid": "9e6d1abc-11c7-449f-b1fb-622e7a0fc2e0",
+            "id": "25",
+            "name": "Email – Thiago R Meneses – Outlook",
+            "type": "url",
+            "url": "https://outlook.live.com/mail/0/inbox"
+         }, {
+            "date_added": "13309453458830496",
+            "date_last_used": "13309530592788843",
+            "guid": "d72cced2-ca91-4a87-bd1d-863f145548d1",
+            "id": "26",
+            "name": "Functions, Variables | CS50P 2022 | CS50's Introduction to Programming with Python | edX",
+            "type": "url",
+            "url": "https://learning.edx.org/course/course-v1:HarvardX+CS50P+Python/block-v1:HarvardX+CS50P+Python+type@sequential+block@744dad66fcce478a92fb1073b3d373fa/block-v1:HarvardX+CS50P+Python+type@vertical+block@263dc9ef9c66490aa5511e9f8633de34"
+         }, {
+            "date_added": "13376060588926501",
+            "date_last_used": "0",
+            "guid": "7230148c-347b-4c35-8339-0f0c7fcbdf4d",
+            "id": "28",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Learn Japanese: A Ridiculously Detailed Guide",
+            "type": "url",
+            "url": "https://www.tofugu.com/learn-japanese/#zero-knowledge-of-japanese"
+         }, {
+            "date_added": "13321112394157641",
+            "date_last_used": "0",
+            "guid": "f9f2fe75-d608-4c03-adce-90646fdefd79",
+            "id": "34",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "JavaScript for Beginners",
+            "type": "url",
+            "url": "https://www.scaler.com/topics/course/javascript-beginners/"
+         }, {
+            "date_added": "13321112645776531",
+            "date_last_used": "0",
+            "guid": "3dab664d-f766-464e-bb6c-3f84731e542e",
+            "id": "35",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Scaler Topics java ",
+            "type": "url",
+            "url": "https://www.scaler.com/topics/course/javascript-beginners/video/239/"
+         }, {
+            "date_added": "13339444465981037",
+            "date_last_used": "0",
+            "guid": "b47d067e-31a0-4ae2-b285-2a03241002f3",
+            "id": "36",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Dashboard | The Odin Project",
+            "type": "url",
+            "url": "https://www.theodinproject.com/dashboard"
+         }, {
+            "date_added": "13361834641793379",
+            "date_last_used": "0",
+            "guid": "8fef1827-c658-4162-9165-7919466d5002",
+            "id": "37",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Contact | Akko Official Global Site",
+            "type": "url",
+            "url": "https://en.akkogear.com/contact/"
+         }, {
+            "date_added": "13363719058371049",
+            "date_last_used": "0",
+            "guid": "607b9dae-a093-4fa9-aae8-7407ebc262e2",
+            "id": "38",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "BlazingBoost - Reach your Gaming Goals - Since 2012",
+            "type": "url",
+            "url": "https://blazingboost.com/"
+         }, {
+            "date_added": "13364698651020919",
+            "date_last_used": "0",
+            "guid": "c8b53837-9272-405b-9b52-53a89886c3fb",
+            "id": "39",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "verity gear viewer",
+            "type": "url",
+            "url": "https://dreaming.city/verity/"
+         }, {
+            "date_added": "13365038454899804",
+            "date_last_used": "0",
+            "guid": "13eea6f0-51b2-4c3e-9957-fadbb167344d",
+            "id": "40",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Destiny 2 Ghosts of the Deep Boost, D2 Season of the Deep Dungeon Carry at Overgear.com",
+            "type": "url",
+            "url": "https://overgear.com/games/d2/ghosts-of-the-deep-boost?platform=pc&options-2L2N=piloted&execution-options-4Gdl=normal&number-of-guardians-Q8Qn=one&d2-dung-god-soloflaw-mR05=false&d2-dung-god-navigator-6YJB=false&d2-dung-god-all-collect-Rw49=false&d2-dung-god-secret-chests-PeJW=false&stream=false"
+         }, {
+            "date_added": "13376095599850203",
+            "date_last_used": "0",
+            "guid": "6103cca7-995b-4494-a67a-70bc68b75044",
+            "id": "41",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "How to learn Japanese by yourself? : r/Japaneselanguage",
+            "type": "url",
+            "url": "https://www.reddit.com/r/Japaneselanguage/comments/19718if/how_to_learn_japanese_by_yourself/"
+         }, {
+            "date_added": "13376717266881075",
+            "date_last_used": "0",
+            "guid": "9a9a96ce-1ecc-4c50-9d4d-9d102ecabfc0",
+            "id": "42",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Full-Stack Next.js with Express and TypeScript Course",
+            "type": "url",
+            "url": "https://nextjs.codinginflow.com/"
+         }, {
+            "date_added": "13380474673243590",
+            "date_last_used": "0",
+            "guid": "b6c2c427-2aab-42f1-a767-0a26ae92a8fb",
+            "id": "43",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "The Ultimate Git Course",
+            "type": "url",
+            "url": "https://codewithmosh.com/p/the-ultimate-git-course"
+         }, {
+            "date_added": "13382027428387212",
+            "date_last_used": "0",
+            "guid": "407455a1-d7d9-49f8-b746-098909986f59",
+            "id": "45",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "The W3C Markup Validation Service",
+            "type": "url",
+            "url": "https://validator.w3.org/#validate_by_input"
+         }, {
+            "date_added": "13382500522170104",
+            "date_last_used": "0",
+            "guid": "e951b9aa-4d58-43a9-81d8-70da94d2e769",
+            "id": "47",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "2 | Chapter 1 - Kokou no Hito - MangaDex",
+            "type": "url",
+            "url": "https://mangadex.org/chapter/90fad175-f0d7-49f9-9feb-524a43b7606e/2"
+         } ],
+         "date_added": "13380660013466247",
+         "date_last_used": "0",
+         "date_modified": "13382500522170104",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Barra de favoritos",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "date_added": "13339695013989029",
+            "date_last_used": "0",
+            "guid": "2edf193b-83ce-4961-8e39-651ca82da91b",
+            "id": "12",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "OVERGEAR Screenshot Uploader",
+            "type": "url",
+            "url": "https://docs.google.com/forms/d/e/1FAIpQLSc8D8TKMxdCSg9kC0KX2ssY8jvuXSzB9nd6mQmckr5MHEwPQQ/viewform"
+         }, {
+            "date_added": "13339695189199085",
+            "date_last_used": "0",
+            "guid": "00251c6a-73e9-4479-9f92-53a6a0d37b3f",
+            "id": "13",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Time Converter and World Clock - Conversion at a Glance - Pick best time to schedule conference calls, webinars, online meetings and phone calls.",
+            "type": "url",
+            "url": "https://www.worldtimebuddy.com/"
+         }, {
+            "date_added": "13341270292422275",
+            "date_last_used": "13341794228045987",
+            "guid": "d60ddf66-e2ea-4795-9da5-0803c027250d",
+            "id": "14",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": " A Casa do Dragão ",
+            "type": "url",
+            "url": "https://superflix.mx/episodio/a-casa-do-dragao-1x3/"
+         }, {
+            "date_added": "13348160140421442",
+            "date_last_used": "0",
+            "guid": "50f434b8-60a6-4edd-9879-cb77ab8f40f8",
+            "id": "15",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Tomato Timer - Online Pomodoro Timer App | Toptal&reg;",
+            "type": "url",
+            "url": "https://www.toptal.com/project-managers/tomato-timer"
+         } ],
+         "date_added": "13380660013466249",
+         "date_last_used": "0",
+         "date_modified": "13348160140421442",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Outros favoritos",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [ {
+            "date_added": "13214636814984307",
+            "date_last_used": "0",
+            "guid": "8b3f0f29-3827-4d3b-a2b3-f1bcc291d242",
+            "id": "5",
+            "name": "Dr. Stone Episódio 13",
+            "type": "url",
+            "url": "https://www.animesorion.io/126660"
+         }, {
+            "date_added": "13227332688378933",
+            "date_last_used": "0",
+            "guid": "bca105b5-b915-43d5-b663-eab0915d52fe",
+            "id": "6",
+            "name": "Dr. Stone Episódio 20",
+            "type": "url",
+            "url": "https://www.animesorion.tube/127190"
+         }, {
+            "date_added": "13250214386547835",
+            "date_last_used": "0",
+            "guid": "ca662fc9-e012-4b69-b8f8-8c47bb83cd39",
+            "id": "7",
+            "name": "Free German Online Courses Level A1 to B1 | DW Learn German",
+            "type": "url",
+            "url": "https://learngerman.dw.com/en/overview"
+         }, {
+            "date_added": "13370705407717736",
+            "date_last_used": "0",
+            "guid": "7af73c92-6f87-43cb-aace-356bfec89fbc",
+            "id": "8",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Conversor de PDF - Converta online e gratuitamente arquivos para PDF ou a partir de PDFs",
+            "type": "url",
+            "url": "https://smallpdf.com/pt/conversor-de-pdf#r=convert"
+         }, {
+            "date_added": "13375571579088568",
+            "date_last_used": "0",
+            "guid": "d0b1b539-cc19-4fd8-8854-dd34bc9de095",
+            "id": "9",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "CPU | Switch Sports Wiki | Fandom",
+            "type": "url",
+            "url": "https://switchsports.fandom.com/wiki/CPU#List_of_Sportsmate_CPUs"
+         }, {
+            "date_added": "13375572140983683",
+            "date_last_used": "0",
+            "guid": "a23a228b-2d07-4796-b8a3-154563a071ae",
+            "id": "10",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "- GIF - Imgur",
+            "type": "url",
+            "url": "https://imgur.com/a/nBNzkDp"
+         }, {
+            "date_added": "13376060007113059",
+            "date_last_used": "0",
+            "guid": "401fa159-b750-4e9f-aff6-4578ebe24e21",
+            "id": "11",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Japanese language resources – Language Links Database",
+            "type": "url",
+            "url": "https://universeofmemory.com/Japanese-language-resources/"
+         } ],
+         "date_added": "13380660013466252",
+         "date_last_used": "0",
+         "date_modified": "13376060007113059",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Favoritos nos dispositivos móveis",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CmEKQQiIgQISOyAAkgE2CjQKDmNocm9tZV9zeW5jX2JtEgU1MSFibRoSCbIk3zgWLQYAEbIk3zgWLQYAKTZk3zgWLQYAEgAqGFd1RDFLYzFBUnd2WkN5OStmU044Znc9PUgDEu4BCAgS6QEKHG10RDRYdGFiYkZIa29YOFBkNVVxUDg0SWsrWT0SZlo6QURxdEFaenlGMEtvbjVxUnNvdFFnQUNLNFc3bUZlc3RyRFBEZkRxSnBYRktFTXpEbUNCaFc2TjMvK1U3RnhvT2dJZDBKTkpEVzdsTENCL3lPalhsanNjdVdBTVphNk5hOVE9PRgAIAAoADDm9bLO+r+IAzjwjbzbnjJA8I28254yShxUQWhLb2UzSW04WVVMbWRVSVlXb2p3VlVNWGs9WiEiH////TRKM2RVMTlmNEhJOU5INllrTGVBeGs2YlpmST1lZNHRpRL0AQgSEu8BChwrME9KSm1Mdms4bFpjc2h3MUJXcm9GNmtjU1U9EmZaOkFEcXRBWnp5RjBLb241cVJzb3RRZ0FDSzRXN21wS1FPaVNtc1U1b1FDT3gvdlRUaVgxSW1XVWJkQ2o4Y2hvKzVMWTVWRTNtYnp1bitUMUFCK1hrRFpQWXVxQ0IydlhjWkNBPT0YACAAKAAw373Dhs6GhAM48I3W3YowQPCN1t2KMEocWlQ2OHU1L0kvUWlUMnJVVUJ5SGN3Z1hsY0xrPVonIiX/////AAAACNowQ1hoQWJtSjFKazVoZDgrNFc0Qm9mdTRTWDA9ZRhrOpkSrgIIBRKpAgocdklvWW5Fa0JIb3JkckNvekYrQkZBSTlQeUdnPRKmAVo6QURxdEFaekxHdEp4a1VGdXQ3enJEbWFFaHoyM2xiK2lMT0gxbi9xVlNNMFY2Y1ZlektnVEtsdUJHdHFod25YQjEyYldMUXZRWlVWWjdrQ2E0NkhqSG5HUHg4MExsSWhWQzZJYThYMHZpdjNJK2FadjBoeVdDTG0rL09UMnJWbVU2d00ybGttZWdoRDJEbXo1SkhaNDB5MCtDbHl4S1ZJOEdRPT0YACAAKAAwuLj04+v29wI45KvlwtktQOSr5cLZLUocNy9kcDZJNWVZbHNPNDEvRW81YTJ2eFIvSFFrPVogIh7/sEFVbjNrSkZGc1BneHFTeXJtY1A5RlgwWVcwND1lH8m6cxL1AQgZEvABChxvUHdobkFuL0VOM2xVYjMyV1k5K2ZSUTFMcTg9EmZaOkFEcXRBWnp5RjBLb241cVJzb3RRZ0FDSzRXN20wcnZmdWdQYjlpTjhreC92TjBxK0RFZ2dJMDBqb0xDZ1F6eEhYQ3lNZTAxSmNidVJPUytaS2p2cDFmVWtuMXNrSHlieGNnPT0YACAAKAAwnc+Zx5z1hwM4q/bH18YvQKv2x9fGL0ocTHJHcHN0Y1d5REYwc3psRjk1Sk9hU2N0NWZFPVooIib/////AAAACf22WmtTYkdXNW1oejIvdWVqTHpMQjMzMGR5NVRFPWXhvbfLEuwBCA4S5wEKHEZxckl1czNiR2QzbkZCT3VMUUZMc1B5WWhCcz0SZlo6QURxdEFaenlGMEtvbjVxUnNvdFFnQUNLNFc3bVZGbDR1UWJBTjhnajdoeSs0QXV2VFlhVnZzaW15VFgwTUpWdFhQYU91eUlrcmZ0czUrMHBMYnNGQmNkZGtINVNpbnFiZ0E9PRgAIAAoADClhcKQxPaBAzjGn9uHsTFAxp/bh7ExShxmUEs4d3JzLysrZWV3ek5ibHV4ZE5ZaktGZzg9Wh8iHbVDRTBPRDdmT0JlVDB0Y2tlcFU3b0ZxRWlIRnM9ZatAyjASrwIIBxKqAgoca2VyTGdldUQ2U0I1bnpOMEhwZGVidmZTYVNzPRKmAVo6QURxdEFaekxHdEp4a1VGdXQ3enJEbWFFaHoyM2xiK2lMT0gxbi9xVlNNMFY2Y1ZlekpDWWZCOE0rMzlwNnBaemUwZnp0cThoRUhYVFdTMEJscTlJMUdoa1FDK3J4aEhQMXlUZjhxVGpmeVhqM2d4dnFPYTdTNVdrTHJjdHdLY0JvMjcrQUlnZWxBUHRCVSthcTVIbkdYUWFtQTZRMWVhYlZnPT0YACAAKAAwuLj04+v29wI4+ubv7N0uQPrm7+zdLkocWmc1a090WFZHakxuRURTQlQ2Nk1xeHM1RFdJPVohIh////s3TjZKd2traVVlYjZNSVhRcGJVVDVvaENueUk9ZV7qva8S9AEIFRLvAQocRWV0cUxqc2FoV1Q0UitlTXROakJPYXcvckxzPRJmWjpBRHF0QVp6eUYwS29uNXFSc290UWdBQ0s0VzdtODlZWjJqWUtGSng1REpGbGhkRjBTTGdwbnFqME5lNGZOV0N6Mm9PaFV2OGJKcXNZemlTSjF6NVkrZzJzL1RScnYvNEM0UT09GAAgACgAMMuN4Lq9v4UDONjvlsDtMUDY75bA7TFKHEdneUMzaVo5N1p3a3ZuS0tBNXQweFNHdGorYz1aJyIl/////wAAAAj6K2YzMnpQSmhjWm9VbjEwaGVKZlpES1VLQ1dnPWU8IrKUEvQBCBgS7wEKHFRYSVBYREx6VE1CWnVBbVdvRTRHajBvMkZvdz0SZlo6QURxdEFaenlGMEtvbjVxUnNvdFFnQUNLNFc3bXhyeC9mRUpMaDJsOGl0RUdyd2RJbHZkMDMxc1RwSFh5ZDc2Q3dTL2UrQ3VrVFBycHJTeHZRcmtaQ0E3YWErQ1d0cE91OGc9PRgAIAAoADCDuej4wdWJAzjH+97drDBAx/ve3awwShxKMFVZYWJQUVVDUDZET0FwSHV1SUFZRmlKZ1E9WiciJf////8AAAAJ/W1icmNHQTY0UFRlZm96SmlnUm5qVmZ1M0FPcz1lDtiavxLrAQgNEuYBChx6bk94YUUxMm4vQkU5ZXFpRmhWMXg4VW4ycHc9EmZaOkFEcXRBWnp5RjBLb241cVJzb3RRZ0FDSzRXN20zVExQOEFIaGtvS0JzcjNzZWJybzFuL1B0SDUzUVdlcFVQVWFQbzlYcHJ4dER6SlJ6RlF4K1RXRTVLb05OdzFtUnJDOXd3PT0YACAAKAAw1dj5xbi5gQM4z8nSmKsxQM/J0pirMUocQ0h2T09yU0NJK251dXVjN3E4NXVQWSt2Uy8wPVoeIhxrNSs2eVZWd2pWN3crOUFzMEtmTUpUS3YzMUk9ZeDMOJcS9AEIKRLvAQocRzlQenpIZVlkcFFXRmY5QzFQMTdTRnBaNGNzPRJmWjpBRHF0QVp6eUYwS29uNXFSc290UWdBQ0s0VzdtNnlVQmc3c1YvU3Rpd245ZGpZcnNsSHppQnFUT2hlZFVoT3BGaiszbUc3cHFhR0RQcytZVm1XR0E3TTNnbFVnbnc2bzVTZz09GAAgACgAMI3/sNLq3IkDOOqp2+WyMkDqqdvlsjJKHGZLRG1KS3dWZTBaLzhwemlzUmxMQjhNTmg2ST1aJyIl/////wAAAAv9N3pvOWNOQzhRcUYxVlR4SVoreW5MUUFiWGlRPWXAK/TwEvQBCC8S7wEKHEd5a0x1WGl3UkNBT0VBRC9JMTZWWjZySWFlOD0SZlo6QURxdEFaenlGMEtvbjVxUnNvdFFnQUNLNFc3bUF2WklPR0hUeWhSait0ZVg4Q2htcllDWTlDZ09QLzJUL3hUMGpualhjOEZwUyt2N1lydFVkcHdCaHI1SHcyb2pKS0RIMHc9PRgAIAAoADCP2tXrnpeLAzi64ejTyjJAuuHo08oyShw0VTN0OUxPNDdrU0hoTDBZRnNJSXlVVGxWWlU9WiciJf////8AAAAMq1FyNU9wLy9QZEF3akJFblFvTmlXVWtybFRDMD1l8dOSjxLuAQgKEukBChxaVWZXbG4zNHlCb3p3ZVZJenFUM0xwOXhTWk09EmZaOkFEcXRBWnp5RjBLb241cVJzb3RRZ0FDSzRXN20rNVVmRHhHK1RUVGhjc3JjcWlsN0hVVjVBbWs1QnE2QmNkRG5CWllGWUh4OFQvVlZLb0ZJTW9URE9KMjBYeG5XRmd6NnRRPT0YACAAKAAwiaT4zczNiQM4t/eN7LAyQLf3jeywMkocaUFIY0hDRFBDZGRHWE9RN1JocTNkRTdPcG9RPVohIh////84aDUxRWZwTkQ1UUdSOXIwV1dGVFd3NGFickE9ZQO66gkSwwEIAhK+AQocWWNTVG9udkVTUHdxQ3M0TDJjclZodjY4TDk4PRJmWjpBRHF0QVp6UEtnSnFDQWhLbzVFVjZ3Q05CUFFCSk9ZNWRJUGNncGIxcXgyblhDVkxoOUVEdHJNR3FGMjh1bDNZZnR2NUc4UzdsaitkYVIyTzdCVHRNaWtNYS9kaHVlY014UT09GAAgACgAMLbblcfW9YoDOABAAEocb1BWa2h3QlJiVjY1S0NXUjIrSU9OSFdvT3U4PVoAZQAAAAAS7gEICxLpAQocbzhTMVo3WnBxajdYc0M0bm9nWlJSWFZvTFp3PRJmWjpBRHF0QVp6eUYwS29uNXFSc290UWdBQ0s0VzdtNStlbG95MHJ5U2FZYS9oWW1PNEhFY0xBZ2JSNlAyeTZ6UEVzb2Q1SzNSMCt6NzAwOGcvbGtYSTA4cU1NNWNxN1Y1U2tFdz09GAAgACgAMJav1Ibm24kDOMn13tSyMkDJ9d7UsjJKHCtkVmF6RGt1bTFJVVZhYmtVanZqdDM5MndwUT1aISIf////UmV2TmV4SGpITDZiNGRaNmlFeVdlRFlEemEwPWVcXNZxEuwBCA8S5wEKHFhWTC84cnluOEdhbFhER1lPaHNrUW5FUnRPcz0SZlo6QURxdEFaenlGMEtvbjVxUnNvdFFnQUNLNFc3bXBOTUc0WVVBTktzZy9iM01aZlNHWWJZbnRzRjkwREhIV3AyckQ4MUFMMDRCWmhTM1hPYk5RR083VklFdVFWT0JhTGRNcFE9PRgAIAAoADC2m7755q+DAziFmYbdyjFAhZmG3coxShxrdGwyNkswNlAyT3JBcnU4TEhZOUVuczFTdlk9Wh8iHdpVaDdBUlB2WWZXTXB4ZEMzNXRuZ3RqelB4Tkk9ZbEIZCYS9AEIExLvAQocYUN0WWNPbXR1OGdJT0h4VHBMaDJQVDQyN2ZBPRJmWjpBRHF0QVp6eUYwS29uNXFSc290UWdBQ0s0VzdtQUZqanBMOXFGTG1PWmJBZmI3SFNDdUdYVXpCOFZrTFFWa1pKQzZJY3grQVp5RkluVjJxeWRNbVN2Q3NGNEdlN1VTdnZidz09GAAgACgAML7uvKShxIEDOL6u5oWnMUC+ruaFpzFKHFZoaGVKL0lnYnc2WHJhMHBKSysxKzdQVnBsMD1aJyIl/////wAAAAjoSW9uYkZ4OWFSak9jam5qWGN1SzdFS3NLNWprPWXPlkGAEqsBCAESpgEKHHl4Si82ZnZrZWNyN2twNUVRekI0dFdMcGRiRT0STlo6QURxdEFaeUZkTEg4aG1CZ3J3Nnp2cnpuSm53STBEQVFIOE80MXFHWGMydjBpaXJKT0tEa3BDWWJrakU5ZEFLWndZODFVajVzYlJGMBgAIAAoADC225XH1vWKAzgAQABKHGFSQ1dMZ2hGOWI1SW5xS0lEdnVKL2p2UWtGYz1aAGUAAAAAEq0CCBASqAIKHG1IMkJUOU5tRDdRY0JaZHd4cTd2bG5VOFJrZz0SpgFaOkFEcXRBWnpMR3RKeGtVRnV0N3pyRG1hRWh6MjNJaVk4VUtyVE1DNjF1SzJFQzQ4OElmaVplalRpWVBtT1JKZTFCaE5rN1lWelYzMHhML05iWGF2bU95WThyNTgzRWJXMGpFNWtPTVUzeFFwK2phVkxQbUxSZkk0UXhGMWgvU0VKOTQ3djlONTgzWlhpK0o1UWdRNFNrMDVmSEtaTk03cWVFQT09GAAgACgAMOvwtaKp+fcCOIKRy8/1LkCCkcvP9S5KHEpzR0pXOE9PcmxDZ0hlYlpHaVI3bEw3Y3VQYz1aHyIdxFpwSXJ1dUhJS0FRN2VxWEx5eWpMNjBmYXFmcz1lLZO4jxLDAQgDEr4BChxuamdEdTg4ZUNydlhwODZwRDdmSEdjcUZwODg9EmZaOkFEcXRBWnhpeVVTanZ1REswUi9WRWRpQXBCT1NyYi8xSmJUZ3pJNGtsUWlPaVdXajVMVnZpcHJvSm9MTnFqTFRub2tQOUYwZFZrNittbEYyRXJock1GaG51dnozbUZmQ0J3PT0YACAAKAAwttuVx9b1igM4AEAAShx5ek5CMDFjbjU0QTdjUlUwdVQrL1BnbVR0VW89WgBlAAAAABLrAQgMEuYBChxrdUZxVTZHTWl6VHU5andIV3ErOWg1REF1N0E9EmZaOkFEcXRBWnp5RjBLb241cVJzb3RRZ0FDSzRXN21ub1JIWUFCRjBRSmFsSC9Vb2ZaWXk5TUdwNDMwRjMxWnM5V1ZxVGtvS3BKRXFqKzg2VzBzY2U1S3lGNUc5VWNDWkI3ZnZBPT0YACAAKAAwsKC18re5gQM45fDHmKsxQOXwx5irMUoca1h4ZytYTWRDWXNLeVJXMFlpVHF3Qmp4TDNzPVoeIhxESEtYTHpVRkxEWjRXdG5XMlVSQ2ptdkt6NEk9ZaOtHF8SrgIIBhKpAgocaFVIaG4rbHFvZHNhSDFUTk92c1lnSGpCMFRrPRKmAVo6QURxdEFaekxHdEp4a1VGdXQ3enJEbWFFaHoyM2xiK2lMT0gxbi9xVlNNMFY2Y1Zlek10bFZUancxU1Q5WEJsZHRIVU8wMEFLeGJHejgvMzJKbGlsMXlIZ0llYXV2UnlWS0h5TUdpLzhYR3ZXdVlnaytMN05McUNMZmpHb25oalVNTFRZOHpXSUN0SEdDY0ZhcmRZY0JsV0x4ZmdaS2RwOHNRPT0YACAAKAAwuLj04+v29wI4/uODzoguQP7jg86ILkocbzQ2cVBScTJTa3NXZGM1VTRCM3liOG1IbURJPVogIh7/+zRDcFNwdWJGcVlhMnJGWnVQb29OaGxOSXh4RT1lH8m6cxL0AQgREu8BChwxRUpPTktDazU5VDloWDBwS0RNdVhOMTBVS2M9EmZaOkFEcXRBWnp5RjBLb241cVJzb3RRZ0FDSzRXN21ad0l1aXhhRk9kelRHczdhekxWNVBPQzhnU3hUdmdtMGZyRmUrS2NUb3VWdkJPOXJDaElGUTRTUXRBUnFTS2VMT0Z6M0FRPT0YACAAKAAwo6qUy6PbhgM4zMCu/IgwQMzArvyIMEocQ05NNUNsK3FNZHRwN3VWeEJXNm0rYXlJWDJrPVonIiX/////AAAACLVjNWs0YVBoTEY4Z04yQXd2Y0lGa1ErRElrY0k9ZRQB/GYS8wEIFhLuAQocMzQxcytCcDFNVHB6Q1U1MnNCM25udmtwQ0hvPRJmWjpBRHF0QVp6eUYwS29uNXFSc290UWdBQ0s0VzdtaVp4WGtQb1R3Q1BvKzFOT3RUMXIwalRoM1N4cUtSU1JuZmR6VjY4NnVUR01KcXh2dlF0VkVZY2dFaGVBalI0VmpubUhsQT09GAAgACgAMNf98dz7nYsDOM/65bevMECZ04HCyzJKHGVJYitHN0RRK05EalBEeU9WSTFzRS95VlZKaz1aJiIk/////wAAAAlYNFA0eEZUdS9JYWxtMVJiWnYvSUM4NFdhYzA9ZXj32AAS8wEIKxLuAQocM1k0ckdmLzcyUnJ2eXM4VFJ1SjhwSC9IbStFPRJmWjpBRHF0QVp6eUYwS29uNXFSc290UWdBQ0s0VzdtUFVTNUlnZkVxcURyUkhWaTBHMnEwUUxMdnV0aTRSSXRPRHNoaUlabXhiMnRQM01lSzdRL3BvOGRMVzZUUVUvNzZYNnNwQT09GAAgACgAML2f5/uj3IoDONvg6I3DMkDb4OiNwzJKHEJvdlJiSDRqZHM0Vmt5S0pWcVpaeURrTVJBaz1aJiIk/////wAAAAw0WFhqWlRSV1h3RnJTcmQ1cmorOEFEdnBZWFk9ZWGhOgES7gEICRLpAQocODdtM2VzbG0rYSs5QndNazNCcWNPTFR0NiswPRJmWjpBRHF0QVp6eUYwS29uNXFSc290UWdBQ0s0VzdtZFBxdTMzRTB6MTBmQTVVM2lRa0s1Uk1EOUpiR2ZzUk1wUld4dWlnYmdVbWcxYnRQTEVjajF2ZUhqSklHWTlMSk84empuZz09GAAgACgAMIa27cXKzYkDONzR6+uwMkDc0evrsDJKHGp5UlRWZkhoL2JFQ2kzSWx5VG1WdTNSMTBFST1aISIf///+TENJdG5nSHRvOUFkbm1KdkZZTUpTeURoZ21BPWWzU/2VEvQBCBQS7wEKHDFha0IreGhQT3RTNTB6ek5HcDZVVytPL0VnMD0SZlo6QURxdEFaenlGMEtvbjVxUnNvdFFnQUNLNFc3bW5UWmtMcTBya3Q3aVFSZHNTcSs4djJYUVdxVmt4YkhKazR4NmNSTEhmcW0zT0NtbVVvdEM1WWVtbW9iSGtaSkZMNEdhbFE9PRgAIAAoADCyxcDeu5X+AjjF9qmZjTBAxfapmY0wShx4ZVlKRyt3WG9VYnBHamtiNXlXeko3anlNSDA9WiciJf////8AAAAI9kJIZzE0cGc3OXdPRUlJSjVSNlR6N2hLVEVlUT1l1gj+8RL0AQgnEu8BChxQV1lxZ1J4eUJLckZ2L2V5MHIrM0d3Vk1MbDA9EmZaOkFEcXRBWnp5RjBLb241cVJzb3RRZ0FDSzRXN203VGZuTWdWTW1ObVJQS084bHd3WGtZL0psTDh1bXF1NGJaeGJKVDBGQkJzWmF0SEZZOTFZVGtyazNhZktvZUdnOUVWejd3PT0YACAAKAAwgLDx2ZGRhwM4jeOcq4gyQI3jnKuIMkoccW9QMU8wM29FSmFHUnVOc3I4LytTZFo2eUN3PVonIiX/////AAAAC/RyMFVET3FBOTdRNWdLb0xpajhUOTJ6NW00TU09ZQAAAAAS9AEIFxLvAQocUGtxbEhvbjh6eGpPUEg3UnltVVM0S3NLVHlRPRJmWjpBRHF0QVp6eUYwS29uNXFSc290UWdBQ0s0VzdtUnhNWkVteFpVeWdTT21xVTVUOWV4MTVFRVZnb05WbmpNNXhYUStVRXVWVnUvZitmVVFvVmhmbHU2M3ZhNkJMZFpWL1Nldz09GAAgACgAMJHSj96Yr4oDOIqkvKmtMECKpLyprTBKHHlrOTBBTzZRZkdyRFpURTV0ekZyKzduMmozND1aJyIl/////wAAAAn9Z2tySFJTMEtoZDIzZGNNRmQrUGtKSU01TzYwPWXl/tcWEvQBCCUS7wEKHFRDTFBJVEgvQW5YQkRRMXFTcGJBQUJkdDRrVT0SZlo6QURxdEFaenlGMEtvbjVxUnNvdFFnQUNLNFc3bTdyWEJYZkZtYkwvSnpOdlVXc2ttL21mcU5wVVFZS1pEaS9iRExRVjFoWG1FV0prZFZZWGErTFVMRWoxWDVrSktObmNoNlE9PRgAIAAoADCqx9e35L2GAziBw8fV/TFAgcPH1f0xShxpd2ZHblVac2lJTnJNU1l0aXhON3BGTzlkOTg9WiciJf////8AAAAL0ktRNUZEYytlQW8vV3dlZUZEaFV4ZVBoVUZZcz1leZm0ShL0AQgaEu8BChxKeloxSXNZNzdmMDgyRFdlNEZxSjROTk85OE09EmZaOkFEcXRBWnp5RjBLb241cVJzb3RRZ0FDSzRXN21PWmJlckpuZUhlbDNLQ1VrcUs5Ykt5SDEwWjBIbU8wc1NIbXhDYUVVRVR5N25Gd2tSQ0I5bHZjdFl5YkxFa0tqY0h1UU9RPT0YACAAKAAwm7XC1sTL+gI4juuhxLowQI7rocS6MEocQ2pha2JkamxGQkR4cnRXYi9BRHkwMjFMQWtBPVonIiX/////AAAACf5BWEUrUTcwOEFmM2dqaEluc2VsTWdabzhsdXc9ZRF3fAQS9AEIJhLvAQocYUJOMm5tVk15Wk5OZFhPSFlDVUtEODhsZ3VnPRJmWjpBRHF0QVp6eUYwS29uNXFSc290UWdBQ0s0VzdtcnJRSmsyVkJQcE5LZnVvM1lrTE9kVWhEL2hsN3lORFdzVUJXN3Q0WVhCTGxVbTFGaUZMQlgxei9ja09Nd3hqcW9ZTEtIUT09GAAgACgAMNOGybnQ9IYDOMOXj9iEMkDDl4/YhDJKHDI1SDRGcGEvWmxjR2xvYXg5eitMcU0xWVN4ND1aJyIl/////wAAAAvpeGtlQ05IUjdPczN0RTQvbXB6OFlvWHd5a1pzPWU8IrKUEvMBCBwS7gEKHEJIaSt1K2JkZ1ZoQ0tXa2RDVm0rUW41NVQyND0SZlo6QURxdEFaenlGMEtvbjVxUnNvdFFnQUNLNFc3bTRkL3VzZzJOcDlXYlZpbFNGazBGZUFTeGw0ejNabHE5d1JDeE1jOWduZzdVa3RQTDVCNUszWmpaQmhCWWNSRExOZXRhTkE9PRgAIAAoADDSyo+k6NuJAzj+toLVsjJA/raC1bIyShxoOWkrWjJTVjh4SVBPVGJxT1d4aHk0T1UwdTA9WiYiJP////8AAAAKbUx2dzBGUlBxOVJld0kvTVVKYWtBRkVYeDJFPWW8VLzkEvMBCC0S7gEKHGxnRzlicmNtT1dQdE1OQkhrTE0rNXp6TnJDZz0SZlo6QURxdEFaenlGMEtvbjVxUnNvdFFnQUNLNFc3bXUvaTAvZG1sSFNRT1dCbGtKWVZSdWZNWktHVU1DWlpzRVJBYStQa2swUG11WWk1MS9qQjJaWENLVlh0dWNlUTMxTmhRZVE9PRgAIAAoADCi0My2vImLAzijtJ3yyDJAo7Sd8sgyShxsZDd4NXBYcko4eVE0OUlPRWhNN2dsVUVLTUE9WiYiJP////8AAAAMV2ZTZUJsT0gzcmVqbnlWK3orWFkzZ2IzWkUwPWWfioJfEvQBCCoS7wEKHGZ4c3JzcXNCNnZ0aDg1b1ZsY2JNMEczeVREUT0SZlo6QURxdEFaenlGMEtvbjVxUnNvdFFnQUNLNFc3bVUrTXdEVUl2MmYwVE53cWd2Q0FSdkF2N2ViaE9lMGtuWisyMExWQXQyams5akdDK2liL3Y4Tlc3MC81NkFmWG9aeEdhNlE9PRgAIAAoADCdiK3E9u6JAzjB75KOtTJAwe+SjrUyShxmRW5TTUxmYlRWL2tzbjFKUHVsUGlZd2FvVkk9WiciJf////8AAAAL/ktzS0ZEeWpHVlM5RkNpc3orc1F3QTZ2aW5KUT1lc3IyaxLzAQgkEu4BChxQQmpwelMyeURLRFFHaXpqWGF1bEJmS2FJU1E9EmZaOkFEcXRBWnp5RjBLb241cVJzb3RRZ0FDSzRXN21wcTliNzM5OGNpMnluUUMwZ0piM3d0YWUrWjE4U2ZhaHp6K2dXRGNtZlZBanNnVllLdDEwbktGNUZFNEtjZEI3SG5taG5RPT0YACAAKAAwgKeFxJKygQM4vdKLoaoxQL3Si6GqMUocYmN0dThhTWtlQXhrSldDOVBwNmdKMjJEckE0PVomIiT/////AAAAC0pqL0NiVEVmVjJrM1hiSzJuOWhzMlcxUkRFVT1lOHtgGRL0AQgiEu8BChxWV3NycW9weXpjV0FhUVU3NDZCMXdHODlFYlk9EmZaOkFEcXRBWnp5RjBLb241cVJzb3RRZ0FDSzRXN214T1NRQWpkai8xY0E0REJyRTRaS0Y5VDhNSzY3YjBqZFJ0L0VpRGxsRWZXa2dJN2F6SHJJTHNUZkljc3VWdi9rVWdGYXd3PT0YACAAKAAwzpLrns6c/QI4rePW++UwQK3j1vvlMEoccTZWQzJjNXJLbmpnYitQYWRMS3N3cHVreWJnPVonIiX/////AAAACv1OYms2QXU3TGFRa3Z4SXNpSzNBS0JLV0xjUDQ9ZV4Ut80S9AEIKBLvAQocR0N0MGhHMnI5dndUVW14ekNiamEvZlBDZGVjPRJmWjpBRHF0QVp6eUYwS29uNXFSc290UWdBQ0s0VzdtSTVyNlZkL055VWMzcnh1VTE0NjhtSzBROFN5ZzBqOVRUTnd1SHorNWdSaVNLY2lqYUJ0ZkFLK2RXK0xqcGUxaWZrTTlyQT09GAAgACgAMP/H+siDm4cDOPTgoM2JMkD04KDNiTJKHGdoVlg2clVIUUlJOE44Q1ZtUlRRT0hZa2RiQT1aJyIl/////wAAAAv6czcxdWx3U1dLZlBMb1VnV1YwM2kzOWVsdEhjPWXTi2tkEvQBCCMS7wEKHDdWbmZUQjJVSjQ3WGpHVVNudWY0cWFVWTgzWT0SZlo6QURxdEFaenlGMEtvbjVxUnNvdFFnQUNLNFc3bWplQ1RMb1V4YnYrOEJTdVJndW1JaUE4a0FDOTFROG9QM1R3SWxUbDlUSXZwZ0pWTWljZ0RrbGp6dTRGc0d3Y0I1OGFmWVE9PRgAIAAoADCAx5yZz5z9AjiQkeb75TBAkJHm++UwShxnaGduNlNxL3BqL1BpY244N1FoVXF3TW93Qm89WiciJf////8AAAAK/jdOKzk2bXBTMkl6NmhWZHZXbXFZQm0remgrUT1lXhS3zTABOAA=",
+   "version": 1
+}

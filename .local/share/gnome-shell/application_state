@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="org.gnome.Nautilus.desktop" score="107" last-seen="1736304403"/>
+    <application id="org.gnome.Settings.desktop" score="23685" last-seen="1736230748"/>
+    <application id="firefox_firefox.desktop" score="1322.2421875" last-seen="1736304204"/>
+    <application id="org.gnome.Terminal.desktop" score="17221.76171875" last-seen="1736296753"/>
+    <application id="code.desktop" score="6721.62109375" last-seen="1736304403"/>
+    <application id="gnome-language-selector.desktop" score="0.0234375" last-seen="1735773538"/>
+    <application id="google-chrome.desktop" score="9772" last-seen="1736304234"/>
+    <application id="snap-store_snap-store.desktop" score="52" last-seen="1736230753"/>
+    <application id="org.gnome.TextEditor.desktop" score="0" last-seen="1736269939"/>
+    <application id="xdg-desktop-portal-gnome.desktop" score="0" last-seen="1736297853"/>
+  </context>
+</application-state>

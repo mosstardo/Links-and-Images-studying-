@@ -1,0 +1,119 @@
+2025-01-07 18:48:26.840 [info] [main] Log level: Info
+2025-01-07 18:48:26.840 [info] [main] Validating found git in: "git"
+2025-01-07 18:48:26.840 [info] [main] Using git "2.47.1" from "git"
+2025-01-07 18:48:26.840 [info] [Model][doInitialScan] Initial repository scan started
+2025-01-07 18:48:26.840 [info] > git rev-parse --show-toplevel [13ms]
+2025-01-07 18:48:26.840 [info] > git rev-parse --git-dir --git-common-dir [36ms]
+2025-01-07 18:48:26.840 [info] [Model][openRepository] Opened repository: /home/thiago-ribeiro/Links-and-Images-studying-
+2025-01-07 18:48:26.840 [info] [Model][doInitialScan] Initial repository scan completed - repositories (1), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2025-01-07 18:48:26.857 [info] > git config --get commit.template [10ms]
+2025-01-07 18:48:26.868 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2025-01-07 18:48:26.868 [warning] [Git][getBranch] No such branch: main
+2025-01-07 18:48:26.887 [info] > git status -z -uall [10ms]
+2025-01-07 18:48:26.908 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [22ms]
+2025-01-07 18:48:26.929 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [12ms]
+2025-01-07 18:48:26.929 [warning] [Git][getBranch] No such branch: main
+2025-01-07 18:48:26.930 [error] [GitHistoryProvider][resolveHEADMergeBase] Failed to resolve merge base for main: Error: No such branch: main.
+2025-01-07 18:48:26.931 [info] > git config --get commit.template [3ms]
+2025-01-07 18:48:26.955 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2025-01-07 18:48:26.955 [warning] [Git][getBranch] No such branch: main
+2025-01-07 18:48:26.980 [info] > git status -z -uall [19ms]
+2025-01-07 18:48:26.980 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [13ms]
+2025-01-07 18:48:27.396 [info] > git check-ignore -v -z --stdin [1ms]
+2025-01-07 18:48:27.951 [info] > git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%D%n%B -z --shortstat --diff-merges=first-parent -n50 --skip=0 --topo-order --decorate=full --stdin [1ms]
+2025-01-07 18:48:27.951 [info] fatal: bad revision 'refs/heads/main'
+2025-01-07 18:48:27.952 [error] [GitHistoryProvider][provideHistoryItems] Failed to get history items with options '{"historyItemRefs":["refs/heads/main"],"limit":50,"skip":0}': Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "log",
+  "stdout": "",
+  "stderr": "fatal: bad revision 'refs/heads/main'\n"
+}
+2025-01-07 18:48:31.000 [info] > git show --textconv HEAD:links.html [10ms]
+2025-01-07 18:48:31.001 [info] > git ls-tree -l HEAD -- /home/thiago-ribeiro/Links-and-Images-studying-/links.html [2ms]
+2025-01-07 18:48:31.001 [info] fatal: Not a valid object name HEAD
+2025-01-07 18:48:51.348 [info] > git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%D%n%B -z --shortstat --diff-merges=first-parent -n50 --skip=0 --topo-order --decorate=full --stdin [1ms]
+2025-01-07 18:48:51.348 [info] fatal: bad revision 'refs/heads/main'
+2025-01-07 18:48:51.349 [error] [GitHistoryProvider][provideHistoryItems] Failed to get history items with options '{"historyItemRefs":["refs/heads/main"],"limit":50,"skip":0}': Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "log",
+  "stdout": "",
+  "stderr": "fatal: bad revision 'refs/heads/main'\n"
+}
+2025-01-07 18:49:06.118 [info] > git show --textconv :links.html [8ms]
+2025-01-07 18:49:06.119 [info] > git ls-files --stage -- /home/thiago-ribeiro/Links-and-Images-studying-/links.html [2ms]
+2025-01-07 18:49:46.801 [info] > git config --get commit.template [13ms]
+2025-01-07 18:49:46.802 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2025-01-07 18:49:46.802 [warning] [Git][getBranch] No such branch: main
+2025-01-07 18:49:46.825 [info] > git status -z -uall [12ms]
+2025-01-07 18:49:46.827 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [3ms]
+2025-01-07 18:49:50.434 [info] > git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%D%n%B -z --shortstat --diff-merges=first-parent -n50 --skip=0 --topo-order --decorate=full --stdin [2ms]
+2025-01-07 18:49:50.434 [info] fatal: bad revision 'refs/heads/main'
+2025-01-07 18:49:50.434 [error] [GitHistoryProvider][provideHistoryItems] Failed to get history items with options '{"historyItemRefs":["refs/heads/main"],"limit":50,"skip":0}': Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "log",
+  "stdout": "",
+  "stderr": "fatal: bad revision 'refs/heads/main'\n"
+}
+2025-01-07 18:49:59.560 [info] > git add -A -- . [3ms]
+2025-01-07 18:49:59.577 [info] > git -c user.useConfigOnly=true commit --quiet --allow-empty-message --file - [8ms]
+2025-01-07 18:49:59.589 [info] > git config --get commit.template [2ms]
+2025-01-07 18:49:59.616 [info] > git config --get commit.template [15ms]
+2025-01-07 18:49:59.618 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2025-01-07 18:49:59.628 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/thiago-ribeiro/Links-and-Images-studying-/.git/refs/remotes/origin/main'
+2025-01-07 18:49:59.630 [info] > git rev-parse refs/remotes/origin/main [2ms]
+2025-01-07 18:49:59.630 [info] fatal: ambiguous argument 'refs/remotes/origin/main': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+2025-01-07 18:49:59.653 [info] > git status -z -uall [13ms]
+2025-01-07 18:49:59.654 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [2ms]
+2025-01-07 18:49:59.673 [info] > git merge-base refs/heads/main refs/remotes/origin/main [5ms]
+2025-01-07 18:49:59.673 [info] fatal: Not a valid object name refs/remotes/origin/main
+2025-01-07 18:49:59.696 [info] > git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%D%n%B -z --shortstat --diff-merges=first-parent -n50 --skip=0 --topo-order --decorate=full --stdin [2ms]
+2025-01-07 18:49:59.696 [info] fatal: bad revision 'refs/remotes/origin/main'
+2025-01-07 18:49:59.697 [error] [GitHistoryProvider][provideHistoryItems] Failed to get history items with options '{"historyItemRefs":["238f0726bb7ebc7ce3fea7aa1fb3e9a6fd6b8ce1","refs/remotes/origin/main"],"limit":50,"skip":0}': Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "log",
+  "stdout": "",
+  "stderr": "fatal: bad revision 'refs/remotes/origin/main'\n"
+}
+2025-01-07 18:49:59.724 [info] > git config --get commit.template [12ms]
+2025-01-07 18:49:59.726 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2025-01-07 18:49:59.736 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/thiago-ribeiro/Links-and-Images-studying-/.git/refs/remotes/origin/main'
+2025-01-07 18:49:59.740 [info] > git rev-parse refs/remotes/origin/main [4ms]
+2025-01-07 18:49:59.740 [info] fatal: ambiguous argument 'refs/remotes/origin/main': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+2025-01-07 18:49:59.761 [info] > git status -z -uall [10ms]
+2025-01-07 18:49:59.762 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [2ms]
+2025-01-07 18:50:00.766 [info] > git ls-files --stage -- /home/thiago-ribeiro/Links-and-Images-studying-/links.html [2ms]
+2025-01-07 18:50:00.777 [info] > git cat-file -s d0cd2a3dabd4a47ff5938114c9145cb628b550cb [2ms]
+2025-01-07 18:50:00.788 [info] > git show --textconv :links.html [2ms]
+2025-01-07 18:50:01.766 [info] > git config --get commit.template [2ms]
+2025-01-07 18:50:01.777 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2025-01-07 18:50:01.787 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/thiago-ribeiro/Links-and-Images-studying-/.git/refs/remotes/origin/main'
+2025-01-07 18:50:01.788 [info] > git rev-parse refs/remotes/origin/main [1ms]
+2025-01-07 18:50:01.788 [info] fatal: ambiguous argument 'refs/remotes/origin/main': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+2025-01-07 18:50:01.811 [info] > git status -z -uall [13ms]
+2025-01-07 18:50:01.812 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [2ms]
+2025-01-07 18:51:29.916 [info] > git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%D%n%B -z --shortstat --diff-merges=first-parent -n50 --skip=0 --topo-order --decorate=full --stdin [9ms]
+2025-01-07 18:51:29.916 [info] fatal: bad revision 'refs/remotes/origin/main'
+2025-01-07 18:51:29.916 [error] [GitHistoryProvider][provideHistoryItems] Failed to get history items with options '{"historyItemRefs":["238f0726bb7ebc7ce3fea7aa1fb3e9a6fd6b8ce1","refs/remotes/origin/main"],"limit":50,"skip":0}': Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "log",
+  "stdout": "",
+  "stderr": "fatal: bad revision 'refs/remotes/origin/main'\n"
+}
+2025-01-07 18:51:36.713 [info] > git push origin main:main [5151ms]
+2025-01-07 18:51:36.713 [info] Warning: Permanently added 'github.com' (ED25519) to the list of known hosts.
+To github.com:mosstardo/Links-and-Images-studying-.git
+ * [new branch]      main -> main
+2025-01-07 18:51:36.735 [info] > git config --get commit.template [12ms]
+2025-01-07 18:51:36.737 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2025-01-07 18:51:36.755 [info] > git status -z -uall [10ms]
+2025-01-07 18:51:36.757 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [2ms]
+2025-01-07 18:51:36.777 [info] > git merge-base refs/heads/main refs/remotes/origin/main [4ms]
+2025-01-07 18:51:36.799 [info] > git diff --name-status -z --diff-filter=ADMR 238f0726bb7ebc7ce3fea7aa1fb3e9a6fd6b8ce1...refs/remotes/origin/main [10ms]
+2025-01-07 18:51:36.801 [info] > git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%D%n%B -z --shortstat --diff-merges=first-parent -n50 --skip=0 --topo-order --decorate=full --stdin [3ms]
+2025-01-07 20:14:08.777 [info] > git blame --root --incremental 238f0726bb7ebc7ce3fea7aa1fb3e9a6fd6b8ce1 -- /home/thiago-ribeiro/Links-and-Images-studying-/links.html [14ms]
